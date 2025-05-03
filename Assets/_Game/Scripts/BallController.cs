@@ -31,8 +31,13 @@ public class BallController : MonoBehaviour
         if (Input.GetMouseButton(0) && isAiming)
         {
             Vector2 currentMouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            Vector2 dragVector = startMouseWorldPos - currentMouseWorldPos;
+            float dragDistance = Mathf.Min(dragVector.magnitude * forceMultiplier, maxForce);
+
+            Vector2 direction = dragVector.normalized;
+            Vector2 endPosition = (Vector2)transform.position + direction * dragDistance;
             aimLine.SetPosition(0, transform.position);
-            aimLine.SetPosition(1, transform.position + (Vector3)(startMouseWorldPos - currentMouseWorldPos).normalized);
+            aimLine.SetPosition(1, endPosition);
         }
 
         if (Input.GetMouseButtonUp(0) && isAiming)
