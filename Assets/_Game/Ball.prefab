@@ -318,3 +318,4 @@ MonoBehaviour:
   maxForce: 10
   maxSpeed: 20
   aimLine: {fileID: 6561028094912793354}
+  hitParticleSystem: {fileID: 3057116505199900601, guid: c0d5e099ad1c9694b9c0fed634fd9442, type: 3}

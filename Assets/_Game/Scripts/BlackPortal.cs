@@ -1,10 +1,7 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class BluePortal : MonoBehaviour
+public class BlackPortal : MonoBehaviour
 {
-    public float slowMultiplier = 0.5f;
-
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.TryGetComponent(out BallController ballController))
@@ -12,7 +9,9 @@ public class BluePortal : MonoBehaviour
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                rb.linearVelocity *= slowMultiplier;
+                rb.linearVelocity = Vector2.zero;
+                rb.angularVelocity = 0;
+                other.gameObject.SetActive(false);
             }
         }
     }

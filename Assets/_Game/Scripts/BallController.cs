@@ -11,6 +11,7 @@ public class BallController : MonoBehaviour
     private Vector2 startMouseWorldPos;
     private bool isAiming = false;
     private bool hasShot = false;
+    public ParticleSystem hitParticleSystem;
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -58,5 +59,9 @@ public class BallController : MonoBehaviour
         {
             rb.linearVelocity = rb.linearVelocity.normalized * maxSpeed;
         }
+    }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Instantiate(hitParticleSystem, collision.GetContact(0).point, Quaternion.identity);
     }
 }
