@@ -12,9 +12,14 @@ public class BallController : MonoBehaviour
     private bool isAiming = false;
     private bool hasShot = false;
     public ParticleSystem hitParticleSystem;
+    public ParticleSystem[] portalHitParticleSystems;
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+    }
+    public void SetHasShot(bool newValue)
+    {
+        hasShot = newValue;
     }
 
     void Update()
@@ -68,5 +73,21 @@ public class BallController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         Instantiate(hitParticleSystem, collision.GetContact(0).point, Quaternion.identity);
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.TryGetComponent(out BlackPortal blackPortal))
+            Instantiate(portalHitParticleSystems[0], collision.transform.position, Quaternion.identity);
+        if (collision.TryGetComponent(out BluePortal bluePortal))
+            Instantiate(portalHitParticleSystems[1], collision.transform.position, Quaternion.identity);
+        if (collision.TryGetComponent(out GreenPortal greenPortal))
+            Instantiate(portalHitParticleSystems[2], collision.transform.position, Quaternion.identity);
+        if (collision.TryGetComponent(out PurplePortal purplePortal))
+            Instantiate(portalHitParticleSystems[3], collision.transform.position, Quaternion.identity);
+        if (collision.TryGetComponent(out RedPortal redPortal))
+            Instantiate(portalHitParticleSystems[4], collision.transform.position, Quaternion.identity);
+        if (collision.TryGetComponent(out YellowPortal yellowPortal))
+            Instantiate(portalHitParticleSystems[5], collision.transform.position, Quaternion.identity);
+
     }
 }

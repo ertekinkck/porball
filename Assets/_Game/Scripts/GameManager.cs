@@ -32,7 +32,8 @@ public class GameManager : MonoBehaviour
 
     void OnSceneChanged(Scene oldScene, Scene newScene)
     {
-        transitionImageAnimator.Play("Out");
+        if (transitionImageAnimator)
+            transitionImageAnimator.Play("Out");
         isLevelComplete = false; // Yeni sahnede sıfırla
     }
 

@@ -8,7 +8,10 @@ public class YellowPortal : MonoBehaviour
         {
             var balls = FindObjectsByType<BallController>(FindObjectsInactive.Include, FindObjectsSortMode.None);
             if (balls.Length < 2)
-                Instantiate(ballController.gameObject, ballController.transform.position, ballController.transform.rotation);
+            {
+                var spawnedBall = Instantiate(ballController.gameObject, ballController.transform.position, ballController.transform.rotation);
+                spawnedBall.GetComponent<BallController>().SetHasShot(true);
+            }
         }
     }
 }
