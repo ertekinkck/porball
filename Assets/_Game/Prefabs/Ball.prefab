@@ -204,7 +204,7 @@ TrailRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 5bf657bdf5280e248a283d765267e54f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -468,6 +468,7 @@ MonoBehaviour:
   maxForce: 10
   maxSpeed: 40
   aimLine: {fileID: 6561028094912793354}
+  trailRenderer: {fileID: 992852048064857084}
   hitParticleSystem: {fileID: 7615663170305950946, guid: 010733280c7cd0b4294a9867b26a13f4, type: 3}
   portalHitParticleSystems:
   - {fileID: 4596544553357837919, guid: 8eb503696b886e04faff8fc0f480d473, type: 3}

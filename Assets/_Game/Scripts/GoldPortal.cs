@@ -1,4 +1,5 @@
 using UnityEngine;
+using DG.Tweening;
 
 public class GoldPortal : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class GoldPortal : MonoBehaviour
         {
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             rb.linearVelocity = Vector2.zero;
+            rb.transform.DOMove(transform.position, 0.25f);
             GameManager.Singleton.NextLevel();
         }
     }

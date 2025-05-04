@@ -13,6 +13,7 @@ public class GreenPortal : MonoBehaviour
             {
                 rb.linearVelocity *= speedMultiplier;
             }
+            ballController.ChangeTrailColor(Color.green);
         }
     }
 }

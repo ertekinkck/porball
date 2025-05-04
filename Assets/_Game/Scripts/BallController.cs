@@ -7,6 +7,7 @@ public class BallController : MonoBehaviour
     public float maxForce = 10f;
     public float maxSpeed = 20f;
     public LineRenderer aimLine;
+    public TrailRenderer trailRenderer;
 
     private Vector2 startMouseWorldPos;
     private bool isAiming = false;
@@ -63,6 +64,11 @@ public class BallController : MonoBehaviour
         }
     }
 
+    public void ChangeTrailColor(Color color)
+    {
+        trailRenderer.material.color = color;
+    }
+
     void FixedUpdate()
     {
         if (rb.linearVelocity.magnitude > maxSpeed)
@@ -88,6 +94,5 @@ public class BallController : MonoBehaviour
             Instantiate(portalHitParticleSystems[4], collision.transform.position, Quaternion.identity);
         if (collision.TryGetComponent(out YellowPortal yellowPortal))
             Instantiate(portalHitParticleSystems[5], collision.transform.position, Quaternion.identity);
-
     }
 }

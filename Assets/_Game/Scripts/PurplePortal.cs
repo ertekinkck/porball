@@ -13,6 +13,7 @@ public class PurplePortal : MonoBehaviour
         if (other.TryGetComponent(out BallController ballController))
         {
             ShuffleWithTween();
+            ballController.ChangeTrailColor(Color.purple);
         }
     }
 
@@ -39,7 +40,7 @@ public class PurplePortal : MonoBehaviour
 
         for (int i = 0; i < theyWillSwapPlaces.Length; i++)
         {
-            int index = i; 
+            int index = i;
 
             theyWillSwapPlaces[i]
                 .DOJump(originalPositions[i], jumpPower, jumpCount, moveDuration)

@@ -14,6 +14,7 @@ public class BluePortal : MonoBehaviour
             {
                 rb.linearVelocity *= slowMultiplier;
             }
+            ballController.ChangeTrailColor(Color.blue);
         }
     }
 }

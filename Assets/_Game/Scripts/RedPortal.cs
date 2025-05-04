@@ -13,6 +13,7 @@ public class RedPortal : MonoBehaviour
                 // 90 derece döndürme 
                 Vector2 rotatedVelocity = new Vector2(currentVelocity.y, -currentVelocity.x);
                 rb.linearVelocity = rotatedVelocity;
+                ballController.ChangeTrailColor(Color.red);
             }
         }
     }

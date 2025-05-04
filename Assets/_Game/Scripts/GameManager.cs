@@ -1,3 +1,4 @@
+using DG.Tweening;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -11,12 +12,13 @@ public class GameManager : MonoBehaviour
     private float loadingTimer = 0f;
     private int targetSceneIndex = -1;
 
+    private bool canReturnMenu = true;
+
     void Awake()
     {
         if (Singleton == null)
         {
             Singleton = this;
-            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -32,13 +34,23 @@ public class GameManager : MonoBehaviour
 
     void OnSceneChanged(Scene oldScene, Scene newScene)
     {
+        isLevelComplete = false; // Yeni sahnede sıfırla
         if (transitionImageAnimator)
             transitionImageAnimator.Play("Out");
-        isLevelComplete = false; // Yeni sahnede sıfırla
     }
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Escape) && canReturnMenu)
+        {
+            canReturnMenu = false;
+            transitionImageAnimator.Play("In");
+            DOVirtual.DelayedCall(0.5f, delegate
+            {
+                canReturnMenu = true;
+                SceneManager.LoadScene(0);
+            });
+        }
         if (Input.GetKeyDown(KeyCode.R) && !isLoading)
         {
             RestartLevel();
