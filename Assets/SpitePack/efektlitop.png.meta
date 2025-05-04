@@ -1,0 +1,2680 @@
+fileFormatVersion: 2
+guid: aba014f01a9ea1b40ad3103eccda99eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5620320371216449556
+    second: efektlitop_0
+  - first:
+      213: -1272334997202306626
+    second: efektlitop_1
+  - first:
+      213: -2846121256107161606
+    second: efektlitop_2
+  - first:
+      213: -3507426132116596626
+    second: efektlitop_3
+  - first:
+      213: -1719005241577829065
+    second: efektlitop_4
+  - first:
+      213: -1251433697558774067
+    second: efektlitop_5
+  - first:
+      213: 686792810355408663
+    second: efektlitop_6
+  - first:
+      213: 7425010338307660502
+    second: efektlitop_7
+  - first:
+      213: 576678387769328231
+    second: efektlitop_8
+  - first:
+      213: -2066540940637235216
+    second: efektlitop_9
+  - first:
+      213: 6620409273448275411
+    second: efektlitop_10
+  - first:
+      213: 8943936231216271345
+    second: efektlitop_11
+  - first:
+      213: 2648790583197717975
+    second: efektlitop_12
+  - first:
+      213: -7652147092123385002
+    second: efektlitop_13
+  - first:
+      213: 1360137449925483909
+    second: efektlitop_14
+  - first:
+      213: 3234631501058895644
+    second: efektlitop_15
+  - first:
+      213: -2535929383494587684
+    second: efektlitop_16
+  - first:
+      213: 6935047813911607416
+    second: efektlitop_17
+  - first:
+      213: 6972139297647464637
+    second: efektlitop_18
+  - first:
+      213: 850061676776728093
+    second: efektlitop_19
+  - first:
+      213: 2434445747986266698
+    second: efektlitop_20
+  - first:
+      213: -7091027427236538959
+    second: efektlitop_21
+  - first:
+      213: 6540059960000310395
+    second: efektlitop_22
+  - first:
+      213: -2596414155848559349
+    second: efektlitop_23
+  - first:
+      213: 872400421256093960
+    second: efektlitop_24
+  - first:
+      213: 4153735317664380870
+    second: efektlitop_25
+  - first:
+      213: 7489604920573336265
+    second: efektlitop_26
+  - first:
+      213: -4663725498837326599
+    second: efektlitop_27
+  - first:
+      213: -309244478895326055
+    second: efektlitop_28
+  - first:
+      213: 6395031158107632550
+    second: efektlitop_29
+  - first:
+      213: -101323645464160008
+    second: efektlitop_30
+  - first:
+      213: -7675768036621998692
+    second: efektlitop_31
+  - first:
+      213: -8458817698611926767
+    second: efektlitop_32
+  - first:
+      213: -6326043989716426651
+    second: efektlitop_33
+  - first:
+      213: 5850621592664265880
+    second: efektlitop_34
+  - first:
+      213: -1638290465385396160
+    second: efektlitop_35
+  - first:
+      213: -1961314451147580499
+    second: efektlitop_36
+  - first:
+      213: 6129295829792602710
+    second: efektlitop_37
+  - first:
+      213: 2235702399845279785
+    second: efektlitop_38
+  - first:
+      213: 3236663000216619409
+    second: efektlitop_39
+  - first:
+      213: -2733510358688096893
+    second: efektlitop_40
+  - first:
+      213: 4091652073445907279
+    second: efektlitop_41
+  - first:
+      213: -4979555196502089401
+    second: efektlitop_42
+  - first:
+      213: 3139798090052057212
+    second: efektlitop_43
+  - first:
+      213: 2881428257738790540
+    second: efektlitop_44
+  - first:
+      213: -5001385884577727631
+    second: efektlitop_45
+  - first:
+      213: -3540246732454493221
+    second: efektlitop_46
+  - first:
+      213: -1739712992808713346
+    second: efektlitop_47
+  - first:
+      213: -5529987207926448843
+    second: efektlitop_48
+  - first:
+      213: -4800600159342351906
+    second: efektlitop_49
+  - first:
+      213: -8029853011342284
+    second: efektlitop_50
+  - first:
+      213: -3677071135288868529
+    second: efektlitop_51
+  - first:
+      213: -2355016153763376811
+    second: efektlitop_52
+  - first:
+      213: -3347479747614690647
+    second: efektlitop_53
+  - first:
+      213: -2973679656318915765
+    second: efektlitop_54
+  - first:
+      213: 6546018322112104795
+    second: efektlitop_55
+  - first:
+      213: 5740449034273139986
+    second: efektlitop_56
+  - first:
+      213: 5368908415165260706
+    second: efektlitop_57
+  - first:
+      213: 9147158380069494495
+    second: efektlitop_58
+  - first:
+      213: 305977148365776367
+    second: efektlitop_59
+  - first:
+      213: -8505677743318338962
+    second: efektlitop_60
+  - first:
+      213: 7324507446161536201
+    second: efektlitop_61
+  - first:
+      213: 4437779952075563934
+    second: efektlitop_62
+  - first:
+      213: -646921328341379273
+    second: efektlitop_63
+  - first:
+      213: -2163056574898448877
+    second: efektlitop_64
+  - first:
+      213: 3581769593464093973
+    second: efektlitop_65
+  - first:
+      213: 1367598907227076460
+    second: efektlitop_66
+  - first:
+      213: -8767810760762548800
+    second: efektlitop_67
+  - first:
+      213: -8610003378654409081
+    second: efektlitop_68
+  - first:
+      213: 6146215055932483466
+    second: efektlitop_69
+  - first:
+      213: 3164375586051451633
+    second: efektlitop_70
+  - first:
+      213: -2073873092798900103
+    second: efektlitop_71
+  - first:
+      213: 2701749943006743202
+    second: efektlitop_72
+  - first:
+      213: 3883857708300096280
+    second: efektlitop_73
+  - first:
+      213: -4142967695545533050
+    second: efektlitop_74
+  - first:
+      213: 2839124567866148126
+    second: efektlitop_75
+  - first:
+      213: 5056529637012373532
+    second: efektlitop_76
+  - first:
+      213: -6622899772521356688
+    second: efektlitop_77
+  - first:
+      213: 4469509198283459300
+    second: efektlitop_78
+  - first:
+      213: 6317794714080293536
+    second: efektlitop_79
+  - first:
+      213: -326929296530748549
+    second: efektlitop_80
+  - first:
+      213: 2960054619926266240
+    second: efektlitop_81
+  - first:
+      213: 1484214599738386241
+    second: efektlitop_82
+  - first:
+      213: 5128457003705933035
+    second: efektlitop_83
+  - first:
+      213: 6471958846132905179
+    second: efektlitop_84
+  - first:
+      213: 8669515341103990850
+    second: efektlitop_85
+  - first:
+      213: -3259638521022045828
+    second: efektlitop_86
+  - first:
+      213: -6953863764075826579
+    second: efektlitop_87
+  - first:
+      213: -4236729518021332021
+    second: efektlitop_88
+  - first:
+      213: -8111195138941074841
+    second: efektlitop_89
+  - first:
+      213: 5045738439538715285
+    second: efektlitop_90
+  - first:
+      213: 5063152553307655178
+    second: efektlitop_91
+  - first:
+      213: -6781572359792201585
+    second: efektlitop_92
+  - first:
+      213: 8321037776533483454
+    second: efektlitop_93
+  - first:
+      213: 731117446680536347
+    second: efektlitop_94
+  - first:
+      213: -3932309622810691800
+    second: efektlitop_95
+  - first:
+      213: 8067289971206496980
+    second: efektlitop_96
+  - first:
+      213: -4242146611688664488
+    second: efektlitop_97
+  - first:
+      213: 8177505803260902114
+    second: efektlitop_98
+  - first:
+      213: -4137863881400094551
+    second: efektlitop_99
+  - first:
+      213: 2546894723901119494
+    second: efektlitop_100
+  - first:
+      213: 7923794479887136085
+    second: efektlitop_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: efektlitop_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 767
+        width: 176
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4108f3299936ffd40800000000000000
+      internalID: 5620320371216449556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 767
+        width: 170
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb97578af02c75ee0800000000000000
+      internalID: -1272334997202306626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 959
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74b060ccb8088d0800000000000000
+      internalID: -2846121256107161606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 935
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689447148e135fc0800000000000000
+      internalID: -3507426132116596626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 967
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d08b827ddd428e0800000000000000
+      internalID: -1719005241577829065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 975
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce3e05bea302aee0800000000000000
+      internalID: -1251433697558774067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 959
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fb6871c6af78900800000000000000
+      internalID: 686792810355408663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_7
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 951
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5e64309fea0760800000000000000
+      internalID: 7425010338307660502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 911
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c2a430f5c00800800000000000000
+      internalID: 576678387769328231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 953
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f71487a6fb2253e0800000000000000
+      internalID: -2066540940637235216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 943
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd1693682b60eb50800000000000000
+      internalID: 6620409273448275411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 935
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff44638d9e3f1c70800000000000000
+      internalID: 8943936231216271345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_12
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 935
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d556e3600562c420800000000000000
+      internalID: 2648790583197717975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 933
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65382f433cc1ec590800000000000000
+      internalID: -7652147092123385002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 767
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d938cedcd20e210800000000000000
+      internalID: 1360137449925483909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 911
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f67ef5638b3ec20800000000000000
+      internalID: 3234631501058895644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_16
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 864
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda645169a19eccd0800000000000000
+      internalID: -2535929383494587684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 767
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878fc884e3d3e3060800000000000000
+      internalID: 6935047813911607416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_18
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 893
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db091d050c302c060800000000000000
+      internalID: 6972139297647464637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 873
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16237957960ccb00800000000000000
+      internalID: 850061676776728093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_20
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 854
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a7ea17283e8c120800000000000000
+      internalID: 2434445747986266698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 808
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b59303ff1c979d90800000000000000
+      internalID: -7091027427236538959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_22
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 779
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce29502e5f2ca50800000000000000
+      internalID: 6540059960000310395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d9d6e41fa7fbd0800000000000000
+      internalID: -2596414155848559349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 767
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801eeda9f836b1c00800000000000000
+      internalID: 872400421256093960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 767
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c73164934805a930800000000000000
+      internalID: 4153735317664380870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 511
+        width: 161
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca9ace5efb60f760800000000000000
+      internalID: 7489604920573336265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 679
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4aed74e5e174fb0800000000000000
+      internalID: -4663725498837326599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 710
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c71bee8c755bbf0800000000000000
+      internalID: -309244478895326055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 687
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a37f8ab4f6bfb850800000000000000
+      internalID: 6395031158107632550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 673
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8d2c86ea6089ef0800000000000000
+      internalID: -101323645464160008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 647
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9529de73a13a7590800000000000000
+      internalID: -7675768036621998692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_32
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 663
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119e27eae1e3c9a80800000000000000
+      internalID: -8458817698611926767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_33
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 647
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560257712806538a0800000000000000
+      internalID: -6326043989716426651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 511
+        width: 161
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894dbf13755913150800000000000000
+      internalID: 5850621592664265880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_35
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 631
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484bc3708f9349e0800000000000000
+      internalID: -1638290465385396160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 647
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab128ee5e208c4e0800000000000000
+      internalID: -1961314451147580499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_37
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 503
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a32123512af0550800000000000000
+      internalID: 6129295829792602710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_38
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 639
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9282446cc7fc60f10800000000000000
+      internalID: 2235702399845279785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 625
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199cf81a9dfeaec20800000000000000
+      internalID: 3236663000216619409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_40
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 503
+        width: 163
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d9b80cfce901ad0800000000000000
+      internalID: -2733510358688096893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_41
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 576
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bdb3ed1e778c830800000000000000
+      internalID: 4091652073445907279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_42
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 583
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741ea0d7ee015eab0800000000000000
+      internalID: -4979555196502089401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_43
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 554
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78b0004abdc29b20800000000000000
+      internalID: 3139798090052057212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_44
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 536
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861b44ebb3ecf720800000000000000
+      internalID: 2881428257738790540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 407
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b77155902879ab0800000000000000
+      internalID: -5001385884577727631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 431
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd300d69a548edec0800000000000000
+      internalID: -3540246732454493221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73418c104c4bd7e0800000000000000
+      internalID: -1739712992808713346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_48
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 455
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df61bfee98143b0800000000000000
+      internalID: -5529987207926448843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 149
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed927b9f697d06db0800000000000000
+      internalID: -4800600159342351906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 147
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c09a724e873eff0800000000000000
+      internalID: -8029853011342284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_51
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 422
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41c34fc84b68fcc0800000000000000
+      internalID: -3677071135288868529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_52
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 423
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55190aa194d415fd0800000000000000
+      internalID: -2355016153763376811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_53
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 438
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2bc9eb7ec5b81d0800000000000000
+      internalID: -3347479747614690647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_54
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 403
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b2e499b1e5bb6d0800000000000000
+      internalID: -2973679656318915765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 424
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59c0be4bf028da50800000000000000
+      internalID: 6546018322112104795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_56
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 419
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21da5138bfb2aaf40800000000000000
+      internalID: 5740449034273139986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_57
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 409
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e78502c1328a40800000000000000
+      internalID: 5368908415165260706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_58
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 428
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde974c351c31fe70800000000000000
+      internalID: 9147158380069494495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_59
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 397
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5aab5689c0f3400800000000000000
+      internalID: 305977148365776367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_60
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 417
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62709f4823c5f980800000000000000
+      internalID: -8505677743318338962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_61
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 399
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4792327b0e5a560800000000000000
+      internalID: 7324507446161536201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_62
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 391
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9360d2aa59269d30800000000000000
+      internalID: 4437779952075563934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_63
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737969aba7ca507f0800000000000000
+      internalID: -646921328341379273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_64
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 377
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316da1861874bf1e0800000000000000
+      internalID: -2163056574898448877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_65
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 247
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51df8bdd77005b130800000000000000
+      internalID: 3581769593464093973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_66
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 383
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c677b74d5ffaaf210800000000000000
+      internalID: 1367598907227076460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_67
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 383
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd96e2219a725680800000000000000
+      internalID: -8767810760762548800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_68
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 247
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e046c7b8f138880800000000000000
+      internalID: -8610003378654409081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_69
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 367
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a876302870ebb4550800000000000000
+      internalID: 6146215055932483466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_70
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 350
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae38674de1aeb20800000000000000
+      internalID: 3164375586051451633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_71
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 303
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9781b72f86f1833e0800000000000000
+      internalID: -2073873092798900103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_72
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 312
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa49d8324b8e7520800000000000000
+      internalID: 2701749943006743202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_73
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 270
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813d365120c36e530800000000000000
+      internalID: 3883857708300096280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 198
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df61fc4d83186c0800000000000000
+      internalID: -4142967695545533050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_75
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 181
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e150fbc80c8966720800000000000000
+      internalID: 2839124567866148126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 183
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c108b5a0ae66c2640800000000000000
+      internalID: 5056529637012373532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_77
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 187
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07269db1fbbb614a0800000000000000
+      internalID: -6622899772521356688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_78
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 151
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac6047fe2e60e30800000000000000
+      internalID: 4469509198283459300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_79
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 191
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2b890c1d05da750800000000000000
+      internalID: 6317794714080293536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_80
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 181
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bcd957983867bf0800000000000000
+      internalID: -326929296530748549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_81
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 181
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08185786ef9341920800000000000000
+      internalID: 2960054619926266240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_82
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 83
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147ead3905df89410800000000000000
+      internalID: 1484214599738386241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_83
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 198
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec91cf1970fb2740800000000000000
+      internalID: 5128457003705933035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 31
+        width: 201
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4e2b8d74401d950800000000000000
+      internalID: 6471958846132905179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_85
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 169
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488d49054e405870800000000000000
+      internalID: 8669515341103990850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c712d42190073c2d0800000000000000
+      internalID: -3259638521022045828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_87
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 175
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62bccdefb9ee7f90800000000000000
+      internalID: -6953863764075826579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_88
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 160
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc33de453fc1435c0800000000000000
+      internalID: -4236729518021332021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_89
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 167
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ca8ffefe3f6f80800000000000000
+      internalID: -8111195138941074841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_90
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 135
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a2d369060160640800000000000000
+      internalID: 5045738439538715285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_91
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 159
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cc387eb6ee34640800000000000000
+      internalID: 5063152553307655178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 157
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f807afb7ed303e1a0800000000000000
+      internalID: -6781572359792201585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_93
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 24
+        width: 158
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf62e065c34a7370800000000000000
+      internalID: 8321037776533483454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_94
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 29
+        width: 146
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15eb72b173752a00800000000000000
+      internalID: 731117446680536347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_95
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 119
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827b4897b31ad69c0800000000000000
+      internalID: -3932309622810691800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_96
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 38
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a5d98c75c4ff60800000000000000
+      internalID: 8067289971206496980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_97
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 47
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8529b2de12ed025c0800000000000000
+      internalID: -4242146611688664488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_98
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eabf08a3365c7170800000000000000
+      internalID: 8177505803260902114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_99
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 51
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a07a3429ba5396c0800000000000000
+      internalID: -4137863881400094551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_100
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5172e143685320800000000000000
+      internalID: 2546894723901119494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efektlitop_101
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555bfdee819f6fd60800000000000000
+      internalID: 7923794479887136085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
