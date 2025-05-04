@@ -6,11 +6,12 @@ public class YellowPortal : MonoBehaviour
     {
         if (other.TryGetComponent(out BallController ballController))
         {
-            var balls = FindObjectsByType<BallController>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+            var balls = FindObjectsByType<BallController>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
             if (balls.Length < 2)
             {
-                var spawnedBall = Instantiate(ballController.gameObject, ballController.transform.position, ballController.transform.rotation);
+                var spawnedBall = Instantiate(ballController.gameObject, ballController.transform.position - Vector3.left, ballController.transform.rotation);
                 spawnedBall.GetComponent<BallController>().SetHasShot(true);
+                spawnedBall.GetComponent<Rigidbody2D>().linearVelocity = ballController.GetComponent<Rigidbody2D>().linearVelocity;
             }
         }
     }

@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class BlackPortal : MonoBehaviour
@@ -12,12 +13,17 @@ public class BlackPortal : MonoBehaviour
             {
                 rb.linearVelocity = Vector2.zero;
                 rb.angularVelocity = 0;
-                other.gameObject.SetActive(false);
                 Instantiate(ballExpolisionParticleSystem, other.transform.position, Quaternion.identity);
-                if (!GameManager.Singleton.isLevelComplete &&
-                FindObjectsByType<BallController>(FindObjectsInactive.Exclude, FindObjectsSortMode.None).Length <= 0)
-                    GameManager.Singleton.RestartLevel();
+                Destroy(ballController.gameObject);
+                StartCoroutine(RestartCheck());
             }
         }
+    }
+    private IEnumerator RestartCheck()
+    {
+        yield return new WaitForEndOfFrame();
+        if (!GameManager.Singleton.isLevelComplete &&
+                        FindObjectsByType<BallController>(FindObjectsInactive.Include, FindObjectsSortMode.None).Length <= 0)
+            GameManager.Singleton.RestartLevel();
     }
 }
