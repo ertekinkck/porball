@@ -149,6 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedMultiplier: 1.5
+  ballHitClip: {fileID: 8300000, guid: 560bcf0d54e85de44adebc767aaa875c, type: 3}
 --- !u!1001 &3017010071117118547
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -8,6 +8,7 @@ public class MainMenu : MonoBehaviour
     public Button[] buttons;
     private bool canStart = true;
     public Animator transitionImageAnimator;
+    public Text creditText;
     void Start()
     {
         transitionImageAnimator.Play("Out");
@@ -24,6 +25,10 @@ public class MainMenu : MonoBehaviour
         buttons[1].onClick.AddListener(delegate
         {
             Application.Quit();
+        });
+        buttons[2].onClick.AddListener(delegate
+        {
+            creditText.gameObject.SetActive(!creditText.gameObject.activeSelf);
         });
     }
 }

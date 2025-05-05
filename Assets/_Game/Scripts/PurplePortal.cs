@@ -7,12 +7,14 @@ public class PurplePortal : MonoBehaviour
     public float moveDuration = 0.6f;
     public float jumpPower = 0.5f;
     public int jumpCount = 1;
+    public AudioClip ballHitClip;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.TryGetComponent(out BallController ballController))
         {
             ShuffleWithTween();
+            ballHitClip.PlayClip2D(this, 0.5f);
             ballController.ChangeTrailColor(Color.purple);
         }
     }

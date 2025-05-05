@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class RedPortal : MonoBehaviour
 {
+    public AudioClip ballHitClip;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.TryGetComponent(out BallController ballController))
@@ -14,6 +15,7 @@ public class RedPortal : MonoBehaviour
                 Vector2 rotatedVelocity = new Vector2(currentVelocity.y, -currentVelocity.x);
                 rb.linearVelocity = rotatedVelocity;
                 ballController.ChangeTrailColor(Color.red);
+                ballHitClip.PlayClip2D(this, 0.5f);
             }
         }
     }

@@ -103,6 +103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f045fdde51d6034b80f3eb161602c43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ballHitClip: {fileID: 8300000, guid: 7c67c087292da354a8fdcf063f1a077e, type: 3}
 --- !u!70 &8189782134225236464
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

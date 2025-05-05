@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class YellowPortal : MonoBehaviour
 {
+    public AudioClip ballHitClip;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.TryGetComponent(out BallController ballController))
@@ -13,6 +14,7 @@ public class YellowPortal : MonoBehaviour
                 spawnedBall.GetComponent<BallController>().SetHasShot(true);
                 spawnedBall.GetComponent<Rigidbody2D>().linearVelocity = ballController.GetComponent<Rigidbody2D>().linearVelocity;
             }
+            ballHitClip.PlayClip2D(this, 0.5f);
         }
     }
 }

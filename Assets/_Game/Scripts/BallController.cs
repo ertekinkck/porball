@@ -14,6 +14,7 @@ public class BallController : MonoBehaviour
     private bool hasShot = false;
     public ParticleSystem hitParticleSystem;
     public ParticleSystem[] portalHitParticleSystems;
+    public AudioClip hitClip;
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -79,6 +80,7 @@ public class BallController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         Instantiate(hitParticleSystem, collision.GetContact(0).point, Quaternion.identity);
+        hitClip.PlayClip2D(this, 0.2f, Random.Range(0.95f, 1.05f));
     }
     void OnTriggerEnter2D(Collider2D collision)
     {

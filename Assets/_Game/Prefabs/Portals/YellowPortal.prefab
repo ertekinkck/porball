@@ -148,6 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3beadf7f4c601af4d95ecd6c2211cdb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ballHitClip: {fileID: 8300000, guid: afbdd813ec0334248a80c02ae99941dc, type: 3}
 --- !u!1001 &8381500037829996716
 PrefabInstance:
   m_ObjectHideFlags: 0

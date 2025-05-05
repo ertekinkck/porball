@@ -158,6 +158,7 @@ MonoBehaviour:
   moveDuration: 0.6
   jumpPower: 0.5
   jumpCount: 1
+  ballHitClip: {fileID: 8300000, guid: a4defd1149f183a41bb7bfa0dc0f96c2, type: 3}
 --- !u!1001 &5355091162748215991
 PrefabInstance:
   m_ObjectHideFlags: 0

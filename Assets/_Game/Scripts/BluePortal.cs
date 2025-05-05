@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 public class BluePortal : MonoBehaviour
 {
     public float slowMultiplier = 0.5f;
+    public AudioClip ballHitClip;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -14,6 +15,8 @@ public class BluePortal : MonoBehaviour
             {
                 rb.linearVelocity *= slowMultiplier;
             }
+            ballHitClip.PlayClip2D(this, 0.5f);
+            MusicManager.Singelton.pitch -= 0.2f;
             ballController.ChangeTrailColor(Color.blue);
         }
     }

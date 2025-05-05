@@ -4,6 +4,7 @@ using UnityEngine;
 public class BlackPortal : MonoBehaviour
 {
     public ParticleSystem ballExpolisionParticleSystem;
+    public AudioClip ballHitClip;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.TryGetComponent(out BallController ballController))
@@ -11,6 +12,7 @@ public class BlackPortal : MonoBehaviour
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
+                ballHitClip.PlayClip2D(this, 0.5f);
                 rb.linearVelocity = Vector2.zero;
                 rb.angularVelocity = 0;
                 Instantiate(ballExpolisionParticleSystem, other.transform.position, Quaternion.identity);
