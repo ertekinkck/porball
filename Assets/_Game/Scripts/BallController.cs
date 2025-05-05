@@ -9,16 +9,20 @@ public class BallController : MonoBehaviour
     public LineRenderer aimLine;
     public TrailRenderer trailRenderer;
 
-    private Vector2 startMouseWorldPos;
     private bool isAiming = false;
     private bool hasShot = false;
     public ParticleSystem hitParticleSystem;
     public ParticleSystem[] portalHitParticleSystems;
     public AudioClip hitClip;
+    public SpriteRenderer ballRenderer;
+    private Color ballStartColor;
+
     void Awake()
     {
+        ballStartColor = ballRenderer.color;
         rb = GetComponent<Rigidbody2D>();
     }
+
     public void SetHasShot(bool newValue)
     {
         hasShot = newValue;
@@ -26,19 +30,29 @@ public class BallController : MonoBehaviour
 
     void Update()
     {
+        if (!hasShot)
+        {
+            Color32 c = ballRenderer.color;
+            c.a = 15;
+            ballRenderer.color = Color32.Lerp(ballRenderer.color, c, Time.deltaTime * 6);
+        }
+        else
+        {
+            ballRenderer.color = Color32.Lerp(ballRenderer.color, ballStartColor, Time.deltaTime * 6);
+        }
+
         if (hasShot) return;
 
         if (Input.GetMouseButtonDown(0))
         {
             isAiming = true;
-            startMouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             aimLine.positionCount = 2;
         }
 
         if (Input.GetMouseButton(0) && isAiming)
         {
             Vector2 currentMouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            Vector2 dragVector = startMouseWorldPos - currentMouseWorldPos;
+            Vector2 dragVector = (Vector2)transform.position - currentMouseWorldPos;
             float dragDistance = Mathf.Min(dragVector.magnitude * forceMultiplier, maxForce);
 
             Vector2 direction = dragVector.normalized;
@@ -50,8 +64,8 @@ public class BallController : MonoBehaviour
         if (Input.GetMouseButtonUp(0) && isAiming)
         {
             Vector2 endMouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            Vector2 direction = (startMouseWorldPos - endMouseWorldPos).normalized;
-            float distance = Vector2.Distance(startMouseWorldPos, endMouseWorldPos);
+            Vector2 direction = ((Vector2)transform.position - endMouseWorldPos).normalized;
+            float distance = Vector2.Distance(transform.position, endMouseWorldPos);
 
             float finalForce = Mathf.Min(distance * forceMultiplier, maxForce);
             Vector2 force = direction * finalForce;
@@ -77,11 +91,13 @@ public class BallController : MonoBehaviour
             rb.linearVelocity = rb.linearVelocity.normalized * maxSpeed;
         }
     }
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         Instantiate(hitParticleSystem, collision.GetContact(0).point, Quaternion.identity);
         hitClip.PlayClip2D(this, 0.2f, Random.Range(0.95f, 1.05f));
     }
+
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.TryGetComponent(out BlackPortal blackPortal))

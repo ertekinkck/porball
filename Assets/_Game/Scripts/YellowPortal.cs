@@ -11,8 +11,8 @@ public class YellowPortal : MonoBehaviour
             if (balls.Length < 2)
             {
                 var spawnedBall = Instantiate(ballController.gameObject, ballController.transform.position - Vector3.left, ballController.transform.rotation);
-                spawnedBall.GetComponent<BallController>().SetHasShot(true);
-                spawnedBall.GetComponent<Rigidbody2D>().linearVelocity = ballController.GetComponent<Rigidbody2D>().linearVelocity;
+                //spawnedBall.GetComponent<BallController>().SetHasShot(true);
+                //spawnedBall.GetComponent<Rigidbody2D>().linearVelocity = ballController.GetComponent<Rigidbody2D>().linearVelocity;
             }
             ballHitClip.PlayClip2D(this, 0.5f);
         }

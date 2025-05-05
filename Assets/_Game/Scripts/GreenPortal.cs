@@ -15,7 +15,7 @@ public class GreenPortal : MonoBehaviour
             }
             ballHitClip.PlayClip2D(this, 0.5f);
             ballController.ChangeTrailColor(Color.green);
-            MusicManager.Singelton.pitch += 0.2f;
+            MusicManager.Singelton.pitch += 0.03f;
         }
     }
 }

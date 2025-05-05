@@ -16,7 +16,7 @@ public class BluePortal : MonoBehaviour
                 rb.linearVelocity *= slowMultiplier;
             }
             ballHitClip.PlayClip2D(this, 0.5f);
-            MusicManager.Singelton.pitch -= 0.2f;
+            MusicManager.Singelton.pitch -= 0.03f;
             ballController.ChangeTrailColor(Color.blue);
         }
     }
